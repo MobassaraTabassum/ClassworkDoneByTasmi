@@ -1,0 +1,4 @@
+array:
+1. single dimention array
+2. 2d/ multi dimensional array: array: String [][]
+3. 3d array: String [][][]
